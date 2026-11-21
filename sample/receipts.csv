@@ -1,0 +1,7 @@
+seq,action,ref,term,amount
+1,paid,one,fixed,1800
+2,confirm,two,crew,900
+3,confirm,five,rental,1650
+4,exit,two,-,0
+5,moved,four,-,0
+6,paid,five,rental,1475

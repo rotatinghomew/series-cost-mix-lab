@@ -1,0 +1,9 @@
+id,scope,kind,unit,threshold,low,high
+fixed,all,once,kit,1,1800,1800
+studio,city,fee,day,1,2100,2100
+rental,coast,fee,day,1,1450,1650
+prod,all,fee,running_hour,1,170,210
+crew,city,fee,concurrent,2,900,950
+ot_city,city,fee,running_hour,6,250,280
+long,city,discount,running_hour,7,-380,-380
+beach,coast,discount,running_hour,7,-300,-300

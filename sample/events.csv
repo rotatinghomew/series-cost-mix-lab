@@ -1,0 +1,6 @@
+id,day,start,end,venue,kit,group,running_hours,tickets_low,tickets_high,other_low,other_high
+one,1,9,13,city,stage,alpha,4,3800,4500,500,600
+two,1,12,16,city,stage,beta,4,4600,5100,700,800
+three,2,9,14,city,stage,beta,5,5800,6450,900,1100
+four,3,10,15,coast,desk,alpha,5,4700,5400,900,1000
+five,4,11,14,coast,desk,final,3,7200,8400,1200,1500

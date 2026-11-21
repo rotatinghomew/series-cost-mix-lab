@@ -1,0 +1,44 @@
+{
+  "events": {
+    "id": "str",
+    "day": "int",
+    "start": "int",
+    "end": "int",
+    "venue": "str",
+    "kit": "str",
+    "group": "str",
+    "running_hours": "int",
+    "tickets_low": "int",
+    "tickets_high": "int",
+    "other_low": "int",
+    "other_high": "int"
+  },
+  "tariffs": {
+    "id": "str",
+    "scope": "str",
+    "kind": "str",
+    "unit": "str",
+    "threshold": "int",
+    "low": "int",
+    "high": "int"
+  },
+  "alternatives": {
+    "proposal": "str",
+    "event": "str",
+    "day": "int",
+    "start": "int",
+    "end": "int",
+    "venue": "str"
+  },
+  "receipts": {
+    "seq": "int",
+    "action": "str",
+    "ref": "str",
+    "term": "str",
+    "amount": "int"
+  },
+  "limits": {
+    "budget": "int",
+    "protected_groups": "str"
+  }
+}
